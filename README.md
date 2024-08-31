@@ -1,3 +1,3 @@
-It is just a Sample (ie. to make python a familiar one).
-The full stack Assistant, which can trace the usage and do some basic commands like opening youtube or whatsapp, etc.
-Since it is created as my personal assistant, nobody can adapt or make use of it.
+A personal assistant capable of getting voice commands and automating basic windows tasks.
+
+This was my very beginning mini project, as i wanted to make python language familiar. This is tailored only for my needs and may suit to no one else. Anyway I am not using it nowadays.
